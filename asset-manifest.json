@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gladstart-static/static/css/main.f5516b35.css",
-    "main.js": "/gladstart-static/static/js/main.712ea340.js",
-    "index.html": "/gladstart-static/index.html",
-    "main.f5516b35.css.map": "/gladstart-static/static/css/main.f5516b35.css.map",
-    "main.712ea340.js.map": "/gladstart-static/static/js/main.712ea340.js.map"
+    "main.css": "/GladStartStatic/static/css/main.f5516b35.css",
+    "main.js": "/GladStartStatic/static/js/main.712ea340.js",
+    "index.html": "/GladStartStatic/index.html",
+    "main.f5516b35.css.map": "/GladStartStatic/static/css/main.f5516b35.css.map",
+    "main.712ea340.js.map": "/GladStartStatic/static/js/main.712ea340.js.map"
   },
   "entrypoints": [
     "static/css/main.f5516b35.css",
