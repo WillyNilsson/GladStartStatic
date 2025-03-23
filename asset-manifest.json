@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/GladStartStatic/static/css/main.f5516b35.css",
-    "main.js": "/GladStartStatic/static/js/main.f7936b9d.js",
+    "main.js": "/GladStartStatic/static/js/main.2b118f38.js",
     "index.html": "/GladStartStatic/index.html",
     "main.f5516b35.css.map": "/GladStartStatic/static/css/main.f5516b35.css.map",
-    "main.f7936b9d.js.map": "/GladStartStatic/static/js/main.f7936b9d.js.map"
+    "main.2b118f38.js.map": "/GladStartStatic/static/js/main.2b118f38.js.map"
   },
   "entrypoints": [
     "static/css/main.f5516b35.css",
-    "static/js/main.f7936b9d.js"
+    "static/js/main.2b118f38.js"
   ]
 }
